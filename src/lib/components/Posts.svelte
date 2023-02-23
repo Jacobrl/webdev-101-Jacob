@@ -25,7 +25,7 @@
 						<!-- avatar -->
 						<div class="placeholder avatar">
 							<div class="w-8 rounded-full bg-neutral-focus text-neutral-content">
-								<span class="text-md">{post.expand.user.username.charAt(0)}</span>
+								<span class="text-xl">{post.expand.user.username.charAt(0)}</span>
 							</div>
 						</div>
 
